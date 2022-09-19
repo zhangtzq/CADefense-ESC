@@ -1,0 +1,1 @@
+In this folder, we will show the structures of the generator and discriminator of the GAN used in our project.
